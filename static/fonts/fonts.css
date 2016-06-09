@@ -1,0 +1,128 @@
+@font-face {
+  font-family: "Helvetica-Neue";
+  src: url("helvetica-neue.eot");
+  src: url("helvetica-neue.eot?#iefix") format("embedded-opentype"),
+  url("helvetica-neue.woff") format("woff"),
+  url("helvetica-neue.ttf") format("truetype"),
+  url("helvetica-neue.svg#HelveticaNeue") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Helvetica-Neue-Light';
+  src: url("helvetica-neue-light.eot");
+  src: url("helvetica-neue-light.eot?#iefix") format("embedded-opentype"),
+  url("helvetica-neue-light.woff") format("woff"),
+  url("helvetica-neue-light.ttf") format("truetype"),
+  url("helvetica-neue-light.svg#HelveticaNeue-Light") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica-Neue-Ultra-Light';
+    src: url("Helvetica%20Neue%20UltraLight.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'ArsenalRegular';
+  src: url("arsenal-regular.eot");
+  src: url("arsenal-regular.eot?#iefix") format("embedded-opentype"),
+  url("arsenal-regular.woff") format("woff"),
+  url("arsenal-regular.ttf") format("truetype"),
+  url("arsenal-regular.svg#arsenalregular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ArsenalItalic';
+  src: url("arsenal-italic.eot");
+  src: url("arsenal-italic.eot?#iefix") format("embedded-opentype"),
+  url("arsenal-italic.woff") format("woff"),
+  url("arsenal-italic.ttf") format("truetype"),
+  url("arsenal-italic.svg#arsenalitalic") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ArsenalBold';
+  src: url("arsenal-bold.eot");
+  src: url("arsenal-bold.eot?#iefix") format("embedded-opentype"),
+  url("arsenal-bold.woff") format("woff"),
+  url("arsenal-bold.ttf") format("truetype"),
+  url("arsenal-bold.svg#arsenalbold") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ArsenalBoldItalic';
+  src: url("arsenal-bold-italic.eot");
+  src: url("arsenal-bold-italic.eot?#iefix") format("embedded-opentype"),
+  url("arsenal-bold-italic.woff") format("woff"),
+  url("arsenal-bold-italic.ttf") format("truetype"),
+  url("arsenal-bold-italic.svg#arsenalbold_italic") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cuprum';
+  src: url("cuprum.eot");
+  src: url("cuprum.eot?#iefix") format("embedded-opentype"),
+  url("cuprum.woff") format("woff"),
+  url("cuprum.ttf") format("truetype"),
+  url("cuprum.svg#cuprumbold_italic") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cuprum-700';
+  src: url("cuprum-700.eot");
+  src: url("cuprum-700.eot?#iefix") format("embedded-opentype"),
+  url("cuprum-700.woff") format("woff"),
+  url("cuprum-700.ttf") format("truetype"),
+  url("cuprum-700.svg#cuprumbold_italic") format("svg");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CuprumBoldItalic';
+  src: url("cuprum-bold-italic.eot");
+  src: url("cuprum-bold-italic.eot?#iefix") format("embedded-opentype"),
+  url("cuprum-bold-italic.woff") format("woff"),
+  url("cuprum-bold-italic.ttf") format("truetype"),
+  url("cuprum-bold-italic.svg#cuprumbold_italic") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CuprumRegular';
+  src: url("cuprum-regular.eot");
+  src: url("cuprum-regular.eot?#iefix") format("embedded-opentype"),
+  url("cuprum-regular.woff") format("woff"),
+  url("cuprum-regular.ttf") format("truetype"),
+  url("cuprum-regular.svg#cuprumregular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CuprumBold';
+  src: url("cuprum-bold.eot");
+  src: url("cuprum-bold.eot?#iefix") format("embedded-opentype"),
+  url("cuprum-bold.woff") format("woff"),
+  url("cuprum-bold.ttf") format("truetype"),
+  url("cuprum-bold.svg#cuprumbold") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}

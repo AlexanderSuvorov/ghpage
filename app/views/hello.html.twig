@@ -1,0 +1,23 @@
+{% extends "main/layout.html.twig" %}
+
+{% block content %}
+    <section class="udid color-reaction">
+        <div class="content-wrapper overflow two-columns">
+            <div class="left">
+                <h1 class="left-align">Find UDID</h1>
+                <h4 class="left-align">of iPhone or iPad</h4>
+                <h4 class="left-align">by single tap</h4>
+            </div>
+            <div class="right">
+                <img src="static/images/Iphone@2x.png"/>
+            </div>
+        </div>
+    </section>
+    <section class="two-columns content">
+        * You will be asked to install OTA certificate to find your UDID.
+    </section>
+    <section class="udid-button">
+        <a class="button" id="request-estimate" href="./core/index.php">What`s my UDID?</a>
+    </section>
+    Hello, {{ udid }}
+{% endblock %}

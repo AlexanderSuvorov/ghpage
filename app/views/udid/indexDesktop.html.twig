@@ -1,0 +1,41 @@
+{% extends "main/layout.html.twig" %}
+
+{% block title %}
+    Find UDID
+{% endblock %}
+
+{% block content %}
+    <section class="content-wrapper desktop color-reaction overflow">
+        <h1 class="desktop__title">To find your UDID:</h1>
+        <div class="desktop__step row">
+            <div class="col__left col--1of2 col--text-center col--left-offset">
+                <img src="{{ url('home') }}/static/images/step1.png"/>
+            </div>
+            <div class="col__right col--1of2">
+                <h2 class="desktop__step__number">1.</h2>
+                <div class="desktop__step__description desktop__step__description--one">Open this page on your iPhone or iPad.<br/>Tap button to find UDID.</div>
+            </div>
+            <div class="desktop__step__line">
+                <img src="{{ url('home') }}/static/images/arrow.png"/>
+            </div>
+        </div>
+        <div class="desktop__step row">
+            <div class="col__left col--1of2 col--left-offset">
+                <h2 class="desktop__step__number">2.</h2>
+                <div class="desktop__step__description">Tap "install" button,<br/>and confirm installation.</div>
+            </div>
+            <div class="col__right col--1of2 col--text-center">
+                <img src="{{ url('home') }}/static/images/step2.png"/>
+            </div>
+        </div>
+        <div class="desktop__step row">
+            <div class="col__left col--1of2 col--left-offset">
+                <img src="{{ url('home') }}/static/images/step3.png"/>
+            </div>
+            <div class="col__right col--1of2">
+                <h2 class="desktop__step__number">3.</h2>
+                <div class="desktop__step__description">Enjoy your UDID.</div>
+            </div>
+        </div>
+    </section>
+{% endblock %}
